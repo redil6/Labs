@@ -1,0 +1,16 @@
+{
+  "name": "lab_2",
+  "version": "0.0.1",
+  "description": "Познакомиться с NPM, рассчитать время в днях до нового года и вывести данную информацию на экран используя внешнюю зависимость Luxon",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.6.1"
+  }
+}
